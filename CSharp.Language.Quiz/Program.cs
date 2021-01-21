@@ -20,7 +20,7 @@ namespace CSharp.Language.Quiz
                 foreach (EarnedMark item in person.Marks)
                     System.Console.WriteLine("\t" + item);
             }
-
+            Console.WriteLine("WOW");
             Console.ReadLine();
         }
         
